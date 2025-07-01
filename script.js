@@ -103,6 +103,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             <div><b style="color:#e53935;">Dân số:</b> <span style="color:#222;">${item.dan_so || "Đang cập nhật"}</span></div>
             <div><b style="color:#e53935;">GRDP 2024 (triệu VND):</b> <span style="color:#222;">${item.grdp || "Đang cập nhật"}</span></div>
             <div><b style="color:#e53935;">Thu NS 2024 (triệu VND):</b> <span style="color:#222;">${item.thu_ngan_sach || "Đang cập nhật"}</span></div>
+            <div><span style="color:#222; font-size: 70%; font-style: italic;">(*Bấm vào ảnh hoặc tên để xem tiểu sử)</span></div>
           </div>
         `;
         modal.style.display = 'flex';
