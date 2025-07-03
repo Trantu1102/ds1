@@ -205,7 +205,7 @@ body {
     align-items: center;
     justify-content: flex-start;
     margin-bottom: 24px;
-    margin-top: 0;
+    margin-top: 10;
     margin-left: 10px;
     /* Căn trái bằng card/grid nếu cần */
     padding-left: 0;
@@ -348,7 +348,7 @@ body {
         align-items: center;
         justify-content: flex-start;
         margin-bottom: 14px;
-        margin-top: 0;
+        margin-top: 10;
         margin-left: 0vw;
         padding-left: 0;
         background: none;
