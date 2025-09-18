@@ -606,7 +606,7 @@
     "name": "Thanh Hóa",
     "image": "./Assets/png/thanhhoa.webp",
     "bi_thu": "Nguyễn Doãn Anh",
-    "chu_tich": "Đỗ Minh Tuấn",
+    "chu_tich": "Nguyễn Hoài Anh",
     "trich_ngang_bi_thu_short": "Ủy viên Trung ương Đảng, Bí thư Tỉnh ủy Thanh Hóa",
     "trich_ngang_bi_thu_full": "Bí thư Tỉnh ủy Thanh Hóa\nNgày sinh: 10/10/1967\nQuê quán: xã An Thượng, huyện Hoài Đức, thành phố Hà Nội\nHọc vấn: Đại học, ngành Chỉ huy Tham mưu Binh chủng Hợp thành; Cao cấp chuyên ngành Quân sự\nDân tộc: Kinh",
     "timeline_bi_thu": [
@@ -622,14 +622,20 @@
 
     ],
     "trich_ngang_chu_tich_short": "Phó Bí thư Tỉnh ủy, Chủ tịch UBND tỉnh Thanh Hóa",
-    "trich_ngang_chu_tich_full":"Chủ tịch UBND tỉnh Thanh Hóa\nNgày sinh: 10/7/1972\nQuê quán: Thanh Hóa\nHọc vấn: Tiến sĩ Kinh tế\nDân tộc: Kinh",
+    "trich_ngang_chu_tich_full":"Chủ tịch UBND tỉnh Thanh Hóa\nNgày sinh: 02/5/1977\nQuê quán: Tỉnh Quảng Nam (nay là TP Đà Nẵng)\nHọc vấn: Thạc sĩ Quản lý Hành chính công, Kiến trúc sư, Cử nhân Ngữ văn Anh\nDân tộc: Kinh",
         "timeline_chu_tich": [
-        "5/2002 - 1/2009: Bí thư Tỉnh Đoàn Thanh Hóa",
-        "2/2009 - 12/2010: Bí thư Huyện ủy Triệu Sơn, tỉnh Thanh Hóa",
-        "1/2011 - 8/2013: Bí thư Đảng ủy Khối các cơ quan tỉnh Thanh Hóa",
-        "8/2013 - 9/2015: Trưởng ban Nội chính Tỉnh ủy Thanh Hóa",
-        "9/2015: Phó bí thư Tỉnh ủy Thanh Hóa",
-        "12/2020: Phó bí thư Tỉnh ủy, Chủ tịch UBND tỉnh Thanh Hóa"
+        "Trước tháng 1/2005: Phó Trưởng ban, Trưởng ban Tư tưởng Văn hóa Tỉnh đoàn Bình Thuận",
+        "Từ tháng 1/2005: Phó Bí thư Tỉnh đoàn Bình Thuận",
+        "Từ tháng 9/2007: Bí thư Tỉnh đoàn Bình Thuận, Ủy viên Ban Thường vụ Trung ương Đoàn, Tỉnh ủy viên",
+        "Từ tháng 3/2014: Tỉnh ủy viên, Bí thư Huyện ủy Tuy Phong, Phó Trưởng ban Nội chính Tỉnh ủy, Ủy viên Ban Thường vụ Tỉnh ủy Bình Thuận",
+        "Từ tháng 12/2015: Ủy viên Ban Thường vụ Tỉnh ủy, Trưởng ban Dân vận Tỉnh ủy Bình Thuận",
+        "Từ tháng 7/2019: Ủy viên Ban Thường vụ Tỉnh ủy, Phó Chủ tịch Thường trực HĐND tỉnh Bình Thuận",
+        "Từ tháng 10/2020: Phó Bí thư Thường trực Tỉnh ủy, Chủ tịch HĐND tỉnh Bình Thuận",
+        "Từ tháng 1/2021: Ủy viên Dự khuyết BCH Trung ương Đảng, Phó Bí thư Thường trực Tỉnh ủy, Chủ tịch HĐND tỉnh Bình Thuận",
+        "Từ tháng 3/2024: Ủy viên Dự khuyết BCH Trung ương Đảng, Bí thư Tỉnh ủy Bình Thuận, Bí thư Đảng ủy Quân sự tỉnh, Chủ tịch HĐND tỉnh Bình Thuận",
+        "Từ tháng 7/2025: Ủy viên Dự khuyết BCH Trung ương Đảng, Phó Bí thư Thường trực Tỉnh ủy Lâm Đồng",
+        "Từ tháng 17/9/2025: Ủy viên Dự khuyết BCH Trung ương Đảng, Phó Bí thư Tỉnh ủy, Chủ tịch UBND tỉnh Thanh Hóa",
+          
         ],
      "image_bi_thu": "./Assets/png/thanhhoa_bithu.png",
     "image_chu_tich": "./Assets/png/thanhhoa_chutich.png",
